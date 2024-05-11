@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "router.js": "^1.0.3",
+    "server.js": "^1.0.0",
+    "socket.io": "^4.7.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "prac-7",
+  "version": "1.0.0",
+  "main": "dbConnection.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
